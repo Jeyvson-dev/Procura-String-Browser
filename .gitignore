@@ -1,0 +1,44 @@
+# Arquivos e pastas de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos de build/distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# Logs
+*.log
+
+# Configurações de IDEs/editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testes
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Arquivos do Jupyter
+.ipynb_checkpoints
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
