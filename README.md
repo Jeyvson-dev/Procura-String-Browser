@@ -1,4 +1,8 @@
-2. Criar o ambiente virtual
+⚙️ Configuração do Ambiente e Execução
+
+Siga os passos abaixo para criar o ambiente Python e rodar o projeto.
+
+1. Criar o ambiente virtual
 
 No Linux/macOS:
 
@@ -9,11 +13,15 @@ No Windows (PowerShell):
 
 python -m venv venv
 .\venv\Scripts\activate
-
-3. Instalar as dependências
- 
+2. Instalar as dependências
 pip install -r requirements.txt
-
-4. Executar o projeto
-   
+3. Executar o projeto
 python main.py
+
+💡 Dica: Certifique-se de estar com o ambiente virtual ativado antes de rodar o projeto.
+
+📦 Dependências principais
+
+pygame
+
+selenium
