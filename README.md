@@ -13,14 +13,15 @@ No Windows (PowerShell):
 
 python -m venv venv
 .\venv\Scripts\activate
+
 2. Instalar as dependências
 pip install -r requirements.txt
-3. Executar o projeto
+
+4. Executar o projeto
 python main.py
 
-💡 Dica: Certifique-se de estar com o ambiente virtual ativado antes de rodar o projeto.
 
-📦 Dependências principais
+Dependências principais
 
 pygame
 
