@@ -4,20 +4,20 @@ Siga os passos abaixo para criar o ambiente Python e rodar o projeto.
 
 1. Criar o ambiente virtual
 
-No Linux/macOS:
+No Linux/macOS:<br>
 
 python3 -m venv venv
 source venv/bin/activate
 
-No Windows (PowerShell):
+No Windows (PowerShell):<br>
 
 python -m venv venv
 .\venv\Scripts\activate
 
-2. Instalar as dependências
+2. Instalar as dependências<br>
 pip install -r requirements.txt
 
-4. Executar o projeto
+4. Executar o projeto<br>
 python main.py
 
 
